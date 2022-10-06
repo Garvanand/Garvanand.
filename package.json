@@ -1,5 +1,5 @@
 {
-  "name": "Garvanand.github.io",
+  "name": "personal-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,10 +32,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+
   },
   "eslintConfig": {
     "extends": [
@@ -43,7 +40,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://Garvanand.github.io/portfolio"
+  "homepage": "https://Garvanand.github.io/portfolio",
   "browserslist": {
     "production": [
       ">0.2%",
